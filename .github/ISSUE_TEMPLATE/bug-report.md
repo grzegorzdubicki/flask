@@ -1,6 +1,10 @@
 ---
 name: Bug report
 about: Report a bug in Flask (not other projects which depend on Flask)
+title: ''
+labels: ''
+assignees: ''
+
 ---
 
 <!--
