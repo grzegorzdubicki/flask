@@ -1,6 +1,10 @@
 ---
 name: Feature request
 about: Suggest a new feature for Flask
+title: ''
+labels: ''
+assignees: ''
+
 ---
 
 <!--
